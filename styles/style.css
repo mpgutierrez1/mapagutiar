@@ -1,0 +1,50 @@
+
+.imagen{
+	width: 100%
+}
+
+.imagen img {
+	width: 100%;
+}
+
+.galeria {
+	width: 100%
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+
+body {
+	background-color: #F8F8FF;
+	font-family: 'Average', serif;
+	text-align: center;
+}
+
+h1 { 
+     color: #00FF99;
+     font-size: 40px;
+ }
+
+p { 
+	color: #FF00FF;
+    font-size: 18px; 
+    line-height: 160%;
+}
+
+h3 { 	color: #5564EB;
+	    line-height: 20%;
+
+}
+
+h4 {
+	    color: #5564EB;
+	    line-height: 20%;
+	    padding-bottom: 70px;
+
+	}
+
+
+
+
+
+
