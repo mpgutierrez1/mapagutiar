@@ -21,12 +21,12 @@ body {
 }
 
 h1 { 
-     color: #c3fae1;
+     color: #eb55be;
      font-size: 40px;
  }
 
 p { 
-	color: #FF00FF;
+	color: #55cbeb;
     font-size: 18px; 
     line-height: 160%;
 }
@@ -37,7 +37,7 @@ h3 { 	color: #5564EB;
 }
 
 h4 {
-	    color: #5564EB;
+	    color: #55ebaa;
 	    line-height: 20%;
 	    padding-bottom: 70px;
 
