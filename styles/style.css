@@ -18,26 +18,27 @@ body {
 	background-color: #F8F8FF;
 	font-family: 'Average', serif;
 	text-align: center;
+	margin-top: 90px
 }
 
 h1 { 
-     color: #eb55be;
-     font-size: 40px;
+     color: #282923;
+     font-size: 28px;
  }
 
 p { 
-	color: #55cbeb;
+	color: #282923;
     font-size: 18px; 
     line-height: 160%;
 }
 
-h3 { 	color: #5564EB;
+h3 { 	color: #282923;
 	    line-height: 20%;
 
 }
 
 h4 {
-	    color: #55ebaa;
+	    color: #282923;
 	    line-height: 20%;
 	    padding-bottom: 70px;
 
