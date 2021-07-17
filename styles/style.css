@@ -16,19 +16,24 @@
 
 body {
 	background-color: #F8F8FF;
-	font-family: 'Average', serif;
+	font-family:'Archivo Narrow', sans-serif;
 	text-align: center;
-	margin-top: 90px
+	margin-top: 20px
 }
 
 h1 { 
      color: #282923;
-     font-size: 28px;
+     font-size: 30px;
+ }
+
+ h2 { 
+     color: #282923;
+     font-size: 19px;
  }
 
 p { 
 	color: #282923;
-    font-size: 18px; 
+    font-size: 16px; 
     line-height: 160%;
 }
 
