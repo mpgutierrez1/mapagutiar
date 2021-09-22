@@ -16,24 +16,25 @@
 
 body {
 	background-color: #F8F8FF;
-	font-family:'Archivo Narrow', sans-serif;
+	font-family:'Roboto', sans-serif;
 	text-align: center;
 	margin-top: 20px
 }
 
 h1 { 
      color: #282923;
-     font-size: 20px;
+     font-size: 24px;
  }
 
  h2 { 
      color: #282923;
-     font-size: 20px;
+     font-size: 18px;
+     font-family: 
  }
 
 p { 
 	color: #282923;
-    font-size: 18px; 
+    font-size: 16px; 
 }
 
 h3 { 	color: #282923;
