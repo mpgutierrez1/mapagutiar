@@ -21,20 +21,20 @@ body {
 	margin-top: 20px
 }
 
-h1 { 
-     color: #282923;
+h1 {
+     color: ##FC6C85;
      font-size: 24px;
  }
 
- h2 { 
+ h2 {
      color: #282923;
      font-size: 18px;
-     font-family: 
+     font-family:
  }
 
-p { 
+p {
 	color: #282923;
-    font-size: 16px; 
+    font-size: 16px;
 }
 
 h3 { 	color: #282923;
@@ -43,15 +43,9 @@ h3 { 	color: #282923;
 }
 
 h4 {
-	  
+
 	    color: #282923;
 	    line-height: 20%;
 	    padding-bottom: 70px;
 
 	}
-
-
-
-
-
-
