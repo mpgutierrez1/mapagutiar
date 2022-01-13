@@ -19,22 +19,22 @@ body {
 	font-family:'Roboto', sans-serif;
 	text-align: center;
 	margin-top: 20px
+	font-size: 18px;
 }
 
 h1 {
      color: ##FC6C85;
-     font-size: 24px;
+     font-size: 18px;
  }
 
  h2 {
      color: #282923;
      font-size: 18px;
-     font-family:
  }
 
 p {
 	color: #282923;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 h3 { 	color: #282923;
