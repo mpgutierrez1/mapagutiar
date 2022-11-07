@@ -49,9 +49,3 @@ h4 {
 	    padding-bottom: 70px;
 
 	}
-
-	@media screen and (max-width:800px) {
-		.menu-navegacion {
-			flex-direction: column;
-			height: 120px;
-			justify-content: space-evenly;
