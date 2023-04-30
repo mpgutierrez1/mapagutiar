@@ -7,6 +7,14 @@
 	width: 100%;
 }
 
+.contenedor {
+	width: 80%;
+	margin: auto;
+  max-width: 1000px;
+	overflow: hidden;
+
+}
+
 .galeria {
 	width: 100%
 	margin: auto;
